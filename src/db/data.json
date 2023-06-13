@@ -1,0 +1,17 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "id": 1
+    }
+  ],
+  "words": [
+    {
+      "eng": "apple",
+      "kor": "사과",
+      "day": "1",
+      "isDone": false,
+      "id": 1
+    }
+  ]
+}
